@@ -1,3 +1,1 @@
 # .github
-
-# Salar Code
